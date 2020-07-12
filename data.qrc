@@ -1,2 +1,6 @@
-<!DOCTYPE RCC>
-<RCC version="1.0"/>
+<RCC>
+    <qresource prefix="/">
+        <file>data/init_lines_map.txt</file>
+        <file>data/log_file.txt</file>
+    </qresource>
+</RCC>

@@ -1,2 +1,10 @@
-<!DOCTYPE RCC>
-<RCC version="1.0"/>
+<RCC>
+    <qresource prefix="/person">
+        <file alias="person">data/person.png</file>
+    </qresource>
+    <qresource prefix="/transport">
+        <file alias="car">data/car.png</file>
+        <file alias="plane">data/plane.png</file>
+        <file alias="train">data/train.png</file>
+    </qresource>
+</RCC>
